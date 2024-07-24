@@ -1,0 +1,52 @@
+{
+    "os": "Windows-11-10.0.22621-SP0",
+    "python": "3.12.4",
+    "heartbeatAt": "2024-07-19T09:38:07.683094",
+    "startedAt": "2024-07-19T09:38:06.294075",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/singh-ekansh/isro-hackathon-2024.git",
+        "commit": "173dce17672b7b1112f24a1e2b94ef4350dc429b"
+    },
+    "email": "anantsharma.1839@gmail.com",
+    "root": "C:/Users/Asus/Desktop/i/react-crypto-app-master/react-crypto-app-master/isro-hackathon-2024",
+    "host": "LAPTOP-5DN3738T",
+    "username": "Asus",
+    "executable": "c:\\Users\\Asus\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2496.0,
+        "min": 0.0,
+        "max": 2496.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2496.0,
+            "min": 0.0,
+            "max": 2496.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 404.6194496154785,
+            "used": 360.9904899597168
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1650",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 7.840827941894531
+    }
+}

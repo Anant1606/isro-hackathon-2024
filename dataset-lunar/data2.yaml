@@ -1,0 +1,7 @@
+
+train: dataset-lunar/craters/train/images/
+val: dataset-lunar/craters/valid/images/
+test: dataset-lunar/craters/test/images/
+
+nc: 1  # number of classes
+names: ['class_0']  # class names
